@@ -10,7 +10,7 @@ public class Main {
 
         //call draw method of Rectangle
         shapeFactory.get().getShape("rectangle").draw();
-
+        // przyklad
     }
 }
 
